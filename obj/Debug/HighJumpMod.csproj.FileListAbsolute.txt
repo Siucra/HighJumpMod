@@ -5,6 +5,8 @@ D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\bin\Debug\MMHOOK_RoR2.d
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\bin\Debug\RoR2.dll
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\bin\Debug\UnityEngine.CoreModule.dll
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\bin\Debug\UnityEngine.dll
+C:\Users\Owner\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\lol\BepInEx\plugins\ClassLibrary1.dll
+C:\Users\Owner\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\lol\BepInEx\plugins\ClassLibrary1.pdb
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\obj\Debug\HighJumpMod.csproj.AssemblyReference.cache
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\obj\Debug\HighJumpMod.csproj.CoreCompileInputs.cache
 D:\VisualStudioStuff\ror2TestMod\HighJumpMod\HighJumpMod\obj\Debug\HighJump.3EBB9FA7.Up2Date

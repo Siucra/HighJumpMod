@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighJumpMod", "HighJumpMod.csproj", "{BB70057F-2FB8-4B6B-9C70-2700F295DC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB70057F-2FB8-4B6B-9C70-2700F295DC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB70057F-2FB8-4B6B-9C70-2700F295DC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB70057F-2FB8-4B6B-9C70-2700F295DC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB70057F-2FB8-4B6B-9C70-2700F295DC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1936E71B-4104-48E4-8092-E92C10AD1AA4}
+	EndGlobalSection
+EndGlobal
